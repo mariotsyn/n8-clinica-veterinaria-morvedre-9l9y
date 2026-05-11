@@ -1,0 +1,112 @@
+{
+  "business": {
+    "name": "Clínica Veterinaria Morvedre",
+    "tagline": "La salud de tu mascota, nuestra máxima prioridad.",
+    "description": "En Clínica Veterinaria Morvedre, en el corazón de Port de Sagunt, ofrecemos un cuidado integral y cercano para tus mascotas. Nuestro equipo de profesionales utiliza la última tecnología para garantizar el bienestar de tu fiel compañero.",
+    "phone": "+34 962 68 11 76",
+    "address": "Av. Camp Morvedre, 42, 46520 Port de Sagunt, Valencia, España",
+    "email": "info@clinicaveterinariamorvedre.es",
+    "rating": 4.3,
+    "reviewCount": 86,
+    "hours": [
+      "Monday: 10:30 AM – 2:00 PM, 5:30 – 8:00 PM",
+      "Tuesday: 10:30 AM – 2:00 PM, 5:30 – 8:00 PM",
+      "Wednesday: 10:30 AM – 2:00 PM, 5:30 – 8:00 PM",
+      "Thursday: 10:30 AM – 2:00 PM, 5:30 – 8:00 PM",
+      "Friday: 10:30 AM – 2:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ]
+  },
+  "theme": {
+    "primary": "#3B82F6",
+    "secondary": "#1F2937",
+    "accent": "#10B981",
+    "mode": "light"
+  },
+  "hero": {
+    "headline": "Cuidado experto y cercano para tu fiel compañero.",
+    "subheadline": "Ofrecemos medicina de vanguardia con un trato familiar para garantizar la salud y felicidad de tu mascota en Port de Sagunt.",
+    "cta1": {
+      "text": "Pedir Cita Ahora",
+      "href": "#contact"
+    },
+    "cta2": {
+      "text": "Ver Nuestros Servicios",
+      "href": "#services"
+    },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJC55qigUWYA0R1E0IgRc6BcU/photos/ATCDNfUo1K64v0Id_K8XtnODYvljVbiODfcR86L4i9jmHwIlp-B3WTs0c-1lwdwuWdFDUIR44YRJx_YjD_B_TPqOr0IWX8o355ttnRdZWDYkW2yQW11Qul7pMPpBTab5IArZ92rHCLkv7RRLNnjGY19Ckj50kYWJk0ert1nei0GwQn6enja4ekyx5AUniL28XqhwnnHaEF4SpRw1Zl5A0gOsbRKvDochix2eugN_2Rku0CzdgHiCFXg2r_3sO8gouHicW1RjOidq1bgTI3SdVzaxCFveU64_KN2c-WepFtPRZotY4qw4ErhFx9kNiulLg1Oii5GRD5I4iVi72sX_faqVybmEuXTfDUwqPdPBkpPh7IiIMzmhN9Q5bDgzXIpLBmOwL0nrhCfqrVZ1vFOcTYuflQYrLGaWn9JaA9H1hVZv1EQ/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    {
+      "icon": "🩺",
+      "title": "Medicina Preventiva",
+      "description": "Aseguramos una vida larga y saludable para tu mascota con nuestros planes de vacunación, desparasitación y chequeos anuales."
+    },
+    {
+      "icon": "⚕️",
+      "title": "Cirugía General",
+      "description": "Realizamos intervenciones quirúrgicas con la máxima seguridad y cuidado postoperatorio para una rápida y cómoda recuperación."
+    },
+    {
+      "icon": "🔬",
+      "title": "Diagnóstico por Imagen",
+      "description": "Contamos con equipos de radiología digital y ecografía para obtener diagnósticos precisos que guíen el mejor tratamiento."
+    },
+    {
+      "icon": "🦷",
+      "title": "Salud Dental",
+      "description": "Prevenimos y tratamos problemas bucodentales que son clave para la salud general y el bienestar de tu animal de compañía."
+    }
+  ],
+  "about": {
+    "title": "Nuestra Pasión: El Cuidado Animal",
+    "text": "Desde nuestra fundación en Port de Sagunt, en Clínica Veterinaria Morvedre hemos tenido un objetivo claro: ofrecer una atención veterinaria de máxima calidad con un trato cercano y empático. Entendemos que las mascotas son parte de la familia, y por eso las cuidamos como si fueran nuestras.\n\nNuestro equipo está en constante formación para aplicar los últimos avances en medicina veterinaria. Combinamos experiencia, vocación y tecnología de vanguardia para ofrecer diagnósticos precisos y tratamientos efectivos, siempre comunicando cada paso de forma clara y transparente.\n\nNos enorgullece ser la clínica de confianza para cientos de familias en la comarca. Vuestra tranquilidad y la salud de vuestros compañeros es nuestra mayor recompensa y motivación diaria.",
+    "imageUrl": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80"
+  },
+  "gallery": [
+    {
+      "url": "https://places.googleapis.com/v1/places/ChIJC55qigUWYA0R1E0IgRc6BcU/photos/ATCDNfUo1K64v0Id_K8XtnODYvljVbiODfcR86L4i9jmHwIlp-B3WTs0c-1lwdwuWdFDUIR44YRJx_YjD_B_TPqOr0IWX8o355ttnRdZWDYkW2yQW11Qul7pMPpBTab5IArZ92rHCLkv7RRLNnjGY19Ckj50kYWJk0ert1nei0GwQn6enja4ekyx5AUniL28XqhwnnHaEF4SpRw1Zl5A0gOsbRKvDochix2eugN_2Rku0CzdgHiCFXg2r_3sO8gouHicW1RjOidq1bgTI3SdVzaxCFveU64_KN2c-WepFtPRZotY4qw4ErhFx9kNiulLg1Oii5GRD5I4iVi72sX_faqVybmEuXTfDUwqPdPBkpPh7IiIMzmhN9Q5bDgzXIpLBmOwL0nrhCfqrVZ1vFOcTYuflQYrLGaWn9JaA9H1hVZv1EQ/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8",
+      "alt": "Entrada principal de la Clínica Veterinaria Morvedre"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80",
+      "alt": "Sala de consulta veterinaria limpia y bien iluminada"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=1200&q=80",
+      "alt": "Un veterinario examinando a un perro con atención y cariño"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=1200&q=80",
+      "alt": "Primer plano de un gato siendo atendido en la clínica"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Carlos Sánchez",
+      "stars": 5,
+      "text": "Un trato excepcional y muy profesional. Se nota que aman a los animales. Mi perro siempre va contento."
+    },
+    {
+      "name": "María José López",
+      "stars": 5,
+      "text": "Grandes profesionales. Me explicaron todo el proceso con paciencia y resolvieron todas mis dudas. Totalmente recomendables."
+    },
+    {
+      "name": "David Ferrer",
+      "stars": 4,
+      "text": "Muy buen servicio y diagnóstico acertado para mi gata. A veces hay que esperar un poco, pero la atención lo compensa."
+    }
+  ],
+  "contact": {
+    "title": "¿Hablamos de la salud de tu mascota?",
+    "subtitle": "Pide cita o consúltanos cualquier duda. Estamos aquí para ayudarte a ti y a tu mejor amigo.",
+    "whatsappNumber": "+34 962 68 11 76",
+    "showMap": true,
+    "mapQuery": "Clínica Veterinaria Morvedre Av. Camp Morvedre, 42, 46520 Port de Sagunt, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Clínica Veterinaria Morvedre"
+  }
+}
